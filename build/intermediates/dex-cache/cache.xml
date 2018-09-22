@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\practiceProject\VerticalViewPager\DemoApp\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="F:\practiceProject\VerticalViewPager\DemoApp\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.1_fce0011d913e37b1111c14e9e333a516fddc9e03.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AS\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="F:\practiceProject\VerticalViewPager\DemoApp\build\intermediates\pre-dexed\debug\support-annotations-25.0.1_61a90555e77ad55d503b72184e44894c3ca5043f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\practiceProject\VerticalViewPager\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="F:\practiceProject\VerticalViewPager\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-22.2.1_e5d67bd834765544279d11fdb657d04dcf5c8fff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\practiceProject\VerticalViewPager\DemoApp\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="F:\practiceProject\VerticalViewPager\DemoApp\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.1_4e500444417990f63fd60a13ab80fcfadc66b087.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\practiceProject\VerticalViewPager\DemoApp\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="F:\practiceProject\VerticalViewPager\DemoApp\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_085aa9beaf6cf860c78aaf6932bb4084956d9191.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\practiceProject\VerticalViewPager\DemoApp\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="F:\practiceProject\VerticalViewPager\DemoApp\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.1_641dc5b2c040d45e81f93473a42c8578ff8bf480.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\practiceProject\VerticalViewPager\DemoApp\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="F:\practiceProject\VerticalViewPager\DemoApp\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_487ef7b42f052f7f3a99f987ca2afc6f78b7cc2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\io.reactivex\rxandroid\0.25.0\866b539d3ae58abbd47880f243c02f914fec5cda\rxandroid-0.25.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="866b539d3ae58abbd47880f243c02f914fec5cda">
+        <dex dex="F:\practiceProject\VerticalViewPager\DemoApp\build\intermediates\pre-dexed\debug\rxandroid-0.25.0_aeb2752a6ec9356fbb7ff2b1aa6b6901d3224591.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\practiceProject\VerticalViewPager\DemoApp\build\intermediates\exploded-aar\com.github.castorflex.verticalviewpager\library\19.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cac65d41873c63e90b9406c9dbccc05b15113c45">
+        <dex dex="F:\practiceProject\VerticalViewPager\DemoApp\build\intermediates\pre-dexed\debug\com.github.castorflex.verticalviewpager-library-19.0.1_94c06074d5b835e80d10617b6c98a6ee7671baa4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AS\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="F:\practiceProject\VerticalViewPager\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1_69f891084ded46bd646818c7e5847ee64e81791b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\practiceProject\VerticalViewPager\DemoApp\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="F:\practiceProject\VerticalViewPager\DemoApp\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.1_dc53c651579017159b6289bc81999b8b0357d798.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\practiceProject\VerticalViewPager\DemoApp\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="F:\practiceProject\VerticalViewPager\DemoApp\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.1_26fe6bc3d43541d78679bf0cb451f3d86df52ae5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\practiceProject\VerticalViewPager\DemoApp\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="F:\practiceProject\VerticalViewPager\DemoApp\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.1_f7b00b342e05f5e3d5e19dfa202200d4fa03e0ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\practiceProject\VerticalViewPager\DemoApp\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="F:\practiceProject\VerticalViewPager\DemoApp\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.1_d05cd67a10042ff53aa529da87419abd99b79fbc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\practiceProject\VerticalViewPager\DemoApp\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="F:\practiceProject\VerticalViewPager\DemoApp\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.1_0fa9d6d40e9746c6f8303f90fcc34b1690621cdb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\practiceProject\VerticalViewPager\DemoApp\libs\pldroid-player-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="427765221bdde9429bef5287025c05417a7c9e0b">
+        <dex dex="F:\practiceProject\VerticalViewPager\DemoApp\build\intermediates\pre-dexed\debug\pldroid-player-1.4.0_1061183cdf326c4c70659984b549c89c87245e4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\practiceProject\VerticalViewPager\DemoApp\build\intermediates\exploded-aar\com.qiniu.pili\pili-android-qos\0.8.20\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="058ff5263b3a76cb92d9ebe9f71d519f3850eb45">
+        <dex dex="F:\practiceProject\VerticalViewPager\DemoApp\build\intermediates\pre-dexed\debug\com.qiniu.pili-pili-android-qos-0.8.20_aa2713418d40b12bdd9b9e24de7ff5a0aa5b6138.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\practiceProject\VerticalViewPager\DemoApp\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\practiceProject\VerticalViewPager\DemoApp\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.1_13a8267e0a5b62e0dd672e0ae12a846f68916d85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\practiceProject\VerticalViewPager\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="F:\practiceProject\VerticalViewPager\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1_92dfd9c12258d1863f1807073c32c288b83c4d3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\practiceProject\VerticalViewPager\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="F:\practiceProject\VerticalViewPager\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.2.1_55523c336a439e4ae0dc999bc0a418da4aa521bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.0.12\277d8a8184f92951355d8ddbcac855bf8f12bc5e\rxjava-1.0.12.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="277d8a8184f92951355d8ddbcac855bf8f12bc5e">
+        <dex dex="F:\practiceProject\VerticalViewPager\DemoApp\build\intermediates\pre-dexed\debug\rxjava-1.0.12_92c55dc9e1c8065845927893043875dd868b8f15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\practiceProject\VerticalViewPager\DemoApp\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="F:\practiceProject\VerticalViewPager\DemoApp\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_fac166adbddb3528204103fdcd6ca25f681160b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\practiceProject\VerticalViewPager\DemoApp\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="F:\practiceProject\VerticalViewPager\DemoApp\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_499b0e7743e536b22761bab5cd7454e6354f487d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.qiniu\happy-dns\0.2.13\a5a0b671cfa34710b904121fe8cb880c1b4b106c\happy-dns-0.2.13.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a5a0b671cfa34710b904121fe8cb880c1b4b106c">
+        <dex dex="F:\practiceProject\VerticalViewPager\DemoApp\build\intermediates\pre-dexed\debug\happy-dns-0.2.13_8fb986b0e30a1ff1a3a9d6232f703df73405b222.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\practiceProject\VerticalViewPager\DemoApp\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="F:\practiceProject\VerticalViewPager\DemoApp\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_1b46e26b745d5347b4053761ede22f77e08486c0.jar" />
+    </item>
+
+</items>
